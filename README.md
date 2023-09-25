@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# The Grocery App is deployed at https://651107d5e678fa4a7da8b936--jade-choux-012a7d.netlify.app/
 
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
