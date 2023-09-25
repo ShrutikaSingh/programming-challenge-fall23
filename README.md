@@ -1,72 +1,66 @@
 # The Grocery App is deployed at https://651107d5e678fa4a7da8b936--jade-choux-012a7d.netlify.app/
 
 
+## The app has the functionality to display grcoerylist, add new item via textual entry or voice record, print store, share grocery list via email, manage account, logout
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/e8a749a7-7401-4304-9f66-6f96ed224ea2)
+
+## Login via username, it stores the username in local storage
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/d398e7b6-5e72-43c4-965c-135e88760552)
+
+
+## Displays different products with name, description image , price etc
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/e02456e9-5a7a-47d9-874c-437c1af81c19)
+
+
+## Voice Feature to record and add product, matches the products if its already present or not, if not then its add new product
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/bf3d97c2-5142-40c5-85b5-53efbc4db541)
+In figure above, noodles got added on voice record
+
+
+## Manual Entry Feature to add products
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/f3cdb4b2-37c7-44a6-945d-991e82227fd4)
+
+
+## Table for Store on adding new product the store items update and shows products in table format 
+On click of carticon on top, its takes to store
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/cecb2308-8733-4808-a927-9a89c1987aa1)
+
+
+## Share icon to share auto populated products list email anyone
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/cf1426a3-0f21-4b5a-a685-378846e26615)
+
+
+## Print the store
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/4dd3595b-8e94-47b8-9719-3e78c166b179)
+
+
+## Manage Account to see the username with option to delete username
+
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/ceb01f25-b156-4f7d-b362-1a3dc700343d)
+
+
+## Logout functionality
+The red logout icon at the right of app is used to logout
+![image](https://github.com/isi-usc-edu/programming-challenge-fall23/assets/42492660/fa7612d6-79c4-47ff-ae7b-96e22bbfa292)
+
+
+
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## To run the project, below script you have to run
 
-In the project directory, you can run:
-
+### git clone <repo>
+### cd <product directory>
+### `npm install`
 ### `npm start`
+### Open [http://localhost:3000](http://localhost:3000) to view the grocery app in chrome browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
