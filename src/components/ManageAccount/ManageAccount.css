@@ -1,0 +1,15 @@
+
+.DialogContent-root {
+    padding: 16px;
+  }
+  
+
+  .MuiButton-root.color-error {
+    background-color: red;
+    color: white;
+  }
+
+  .MuiButton-root.color-primary {
+    background-color: #1976d2;
+    color: white;
+  }
